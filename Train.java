@@ -5,13 +5,16 @@
  */
 package assignment5.trainbooking;
 
-import java.io.File;
-
-
-public class Booking {
-    
+/**
+ *
+ * @author admin
+ */
+public class Train {
     String tcode;
-    String ccode;
+    String trainName;
     int seat;
-    
+    int booked;
+    double departTime;
+    String departPlace;
+        
 }
