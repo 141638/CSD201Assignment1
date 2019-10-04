@@ -48,7 +48,7 @@ public class FileTrain {
         }
         out.flush();
         out.close();
-        System.err.println("<Tax payer is successfully saved>");
+        System.err.println("<Saved Successfully!>");
 
     }
 
